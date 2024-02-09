@@ -11,7 +11,8 @@ enum Name {
     Josh,
     Megan,
     Pavel,
-    Anne
+    Anne,
+    Scott
 }
 
 struct Person {
